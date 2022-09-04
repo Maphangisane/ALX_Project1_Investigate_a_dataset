@@ -1,5 +1,3 @@
-# ALX_Project1_Investigate_a_dataset
-
 # Project: Investigate a Dataset - No show appointments
 
 This was the first project in Data Analyst Nanodegree from Udacity. In this project, I analyzed Medical Appointment No Shows Dataset and communicated my findings about it using Python libraries NumPy, pandas, Matplotlib, and seaborn. 
